@@ -1,5 +1,6 @@
 # github.io
-Selectors
+www.internetingishard.com/html-and-css/ <br/>
+
  1. selectors<br/>
 
  - .button:link,
@@ -8,3 +9,7 @@ Selectors
 <br/>
 2. box styles<br/>
 set the ground work for "Flexbox"<br/>
+<br/>
+
+3. Floats<br/>
+How containers, work in relation to eachother
