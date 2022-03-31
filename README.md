@@ -6,3 +6,5 @@ Selectors
  - .button:visited
 <br/>Example of modifying class behaviors depending on what interaction the user has had with the element.
 <br/>
+2. box styles<br/>
+set the ground work for "Flexbox"<br/>
