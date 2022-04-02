@@ -51,6 +51,24 @@
   .feature-3 {
     background-color: #C8C6FA;
   }
+  .header {
+    height: 400px;
+  }
+}
+.illustration img {
+  width: 100%;
+  display: block;
+}
+  .header {
+    height: auto;
+    justify-content: inherit;
+    align-items: inherit;
+  }
+  
+  .photo img {
+    width: 100%;
+    display: block;
+  }
   
   /* Mobile Styles */
   @media only screen and (max-width: 400px) {
@@ -80,7 +98,4 @@
     .feature-3 {
       width: 33.3%;
     }
-    .header {
-      height: 400px;
-    }
-  }
+ 
